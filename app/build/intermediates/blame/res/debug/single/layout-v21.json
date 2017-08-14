@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/joh/AndroidStudioProjects/WebView/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/joh/.android/build-cache/c983c292c0757b0ca807c06bb709d6893d30a309/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/joh/AndroidStudioProjects/WebView/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/joh/.android/build-cache/c983c292c0757b0ca807c06bb709d6893d30a309/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/joh/AndroidStudioProjects/WebView/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/joh/.android/build-cache/c983c292c0757b0ca807c06bb709d6893d30a309/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/joh/AndroidStudioProjects/WebView/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/joh/.android/build-cache/c983c292c0757b0ca807c06bb709d6893d30a309/output/res/layout-v21/notification_action.xml"
+    }
+]
